@@ -1,0 +1,5 @@
+search_tweets_30_day: 
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/30day/[ENV_NAME].json
+  consumer_key: CONSUMER_KEY
+  consumer_secret: CONSUMER_SECRET
